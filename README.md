@@ -24,6 +24,7 @@
 ## 📫 Get in Touch  
 📧 Email: [emmanuelmugendi613@gmail.com](mailto:emmanuelmugendi613@gmail.com)  
 🐙 GitHub: [github.com/manuuh117](https://github.com/manuuh117)  
+🌐 Portfolio: [View Portfolio](shimmering-kelpie-d6942b.netlify.app)
 
 ---
 ⭐ From [Emmanuel Mugendi](https://github.com/manuuh117)
