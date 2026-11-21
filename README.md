@@ -10,6 +10,10 @@
   <a href="https://github.com/manuuh117">GitHub</a>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=14B8A6&height=100&section=header&text=Building%20Systems.%20Understanding%20Logic.&fontSize=30&animation=fadeIn" alt="Waving header" />
+</p>
+
 ---
 
 ## About Me
@@ -34,6 +38,10 @@ I enjoy working beyond the user interface — understanding application architec
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,php,cpp,html,css,react,nextjs,nodejs,bootstrap,mysql,mongodb,supabase,redis,docker,linux,git,github,githubactions&perline=9" alt="Technology stack" />
+</p>
+
+<p align="center">
+  <img src="https://godprofile-mcp.vercel.app/api/icon-marquee?icons=js,php,cpp,react,nextjs,nodejs,mysql,mongodb,redis,docker,linux,git,githubactions&theme=dark" alt="Animated icon marquee" />
 </p>
 
 ## Experience
@@ -66,10 +74,26 @@ Areas of contribution include:
   <img src="https://streak-stats.demolab.com?user=manuuh117&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manuuh117&theme=transparent&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+</p>
+
 ## Contribution Activity
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manuuh117/manuuh117/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manuuh117/manuuh117/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/manuuh117/manuuh117/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manuuh117&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity" />
+</p>
+
+<p align="center">
+  <img src="https://godprofile-mcp.vercel.app/api/contribution-globe?username=manuuh117&theme=dark" alt="3D contribution globe" />
 </p>
 
 ## Interests
