@@ -1,16 +1,16 @@
-name: Generate Snake & 3D Globe
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # Runs every 6 hours
-  workflow_dispatch:         # Allows manual trigger for testing
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:
-      contents: write        # Required to push files to the output branch
+      contents: write
 
     steps:
       - name: Generate Snake SVGs
@@ -24,7 +24,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v5   # <-- UPDATED TO v5
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
