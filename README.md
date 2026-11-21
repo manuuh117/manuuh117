@@ -1,54 +1,46 @@
 # Emmanuel Mugendi
 
-**Software Engineer | Trading Systems & Full-Stack Development**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=14B8A6&center=true&vCenter=true&width=700&lines=Software+Engineer;Trading+Systems+%26+Algorithmic+Logic;Frontend+Engineering;Building+Software+Products" alt="Animated introduction" />
+</p>
 
-I build and contribute to software systems, with a particular focus on trading technology, algorithmic logic, and frontend engineering.
-
-My work involves developing trading functionality, implementing strategy logic, building user interfaces, integrating APIs, and contributing to the deployment and maintenance of software applications.
-
-I'm a Co-Founder at [MarzTech](https://marztech.site) and a Software Developer at EliteScope, where I collaborate on the development of trading software and related infrastructure.
-
-I am particularly interested in understanding how software works beyond the interface — from trading logic and execution workflows to application architecture and deployment.
-
-**Portfolio:** [enuel.site](https://enuel.site)
+<p align="center">
+  <a href="https://enuel.site">Portfolio</a> •
+  <a href="https://marztech.site">MarzTech</a> •
+  <a href="https://github.com/manuuh117">GitHub</a>
+</p>
 
 ---
 
-## Areas of Focus
+## About Me
 
-- **Trading Systems:** Algorithmic trading logic, strategy implementation, execution workflows, and risk management.
-- **Frontend Engineering:** Building responsive, functional interfaces for web applications and trading platforms.
-- **API Integration:** Connecting applications to external services, trading APIs, and real-time data streams.
-- **Backend Development:** Application logic, server-side functionality, and database integration.
-- **DevOps & Deployment:** CI/CD pipelines, Docker, VPS environments, and application maintenance.
+I'm a Software Engineer focused on building practical software systems, solving engineering problems, and developing technology-driven products.
 
-## Technical Stack
+My primary interests and areas of work include **trading systems, algorithmic logic, and frontend engineering**, alongside backend development, API integrations, and deployment infrastructure.
 
-**Languages**
+I'm a Co-Founder at [MarzTech](https://marztech.site) and a Software Developer at EliteScope, collaborating on trading software development and supporting systems.
 
-JavaScript · PHP · C++ · HTML · CSS
+I enjoy working beyond the user interface — understanding application architecture, trading execution workflows, system reliability, and the engineering decisions that make software work.
 
-**Frontend**
+## Engineering Focus
 
-React · Next.js · Bootstrap
+- **Trading Systems:** Algorithmic logic, strategy implementation, execution workflows, and risk management.
+- **Frontend Engineering:** Responsive interfaces, dashboards, and web application development.
+- **Backend Development:** Server-side functionality, application logic, and database integration.
+- **API Integration:** REST APIs, WebSockets, OAuth 2.0, and external services.
+- **Infrastructure & DevOps:** Docker, VPS environments, CI/CD pipelines, and deployment workflows.
 
-**Backend & APIs**
+## Technology Stack
 
-Node.js · PHP · REST APIs · WebSockets · OAuth 2.0
-
-**Databases**
-
-MySQL · MongoDB · Supabase · Redis
-
-**Infrastructure & Tools**
-
-Docker · Git · GitHub Actions · Linux · VPS Administration · CI/CD · Netlify · Vercel
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,php,cpp,html,css,react,nextjs,nodejs,bootstrap,mysql,mongodb,supabase,redis,docker,linux,git,github,githubactions&perline=9" alt="Technology stack" />
+</p>
 
 ## Experience
 
 **Co-Founder — [MarzTech](https://marztech.site)**
 
-Contributing to the development of technology solutions and digital products, with a focus on software engineering and implementation.
+Contributing to technology solutions and digital product development, with a focus on software engineering and implementation.
 
 **Software Developer — EliteScope**
 
@@ -63,7 +55,24 @@ Areas of contribution include:
 - Working with Git, GitHub, CI/CD pipelines, and deployment environments.
 - Debugging, maintaining, and improving application reliability.
 
-## Engineering Interests
+## GitHub Overview
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manuuh117&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuuh117&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=manuuh117&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manuuh117&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity" />
+</p>
+
+## Interests
 
 - Algorithmic Trading & FinTech
 - Software Architecture
@@ -74,12 +83,12 @@ Areas of contribution include:
 - SaaS & Product Development
 - AI and Automation
 
-## Connect
-
-- **Portfolio:** [enuel.site](https://enuel.site)
-- **Company:** [marztech.site](https://marztech.site)
-- **GitHub:** [github.com/manuuh117](https://github.com/manuuh117)
-
 ---
 
-*Building systems. Understanding the logic. Engineering solutions.*
+<p align="center">
+  <b>Building systems. Understanding the logic. Engineering solutions.</b>
+</p>
+
+<p align="center">
+  <a href="https://enuel.site">enuel.site</a>
+</p>
