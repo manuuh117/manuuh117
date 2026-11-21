@@ -3,14 +3,14 @@ name: Generate Snake & 3D Globe
 on:
   schedule:
     - cron: "0 */6 * * *"   # Runs every 6 hours
-  workflow_dispatch:         # Allows you to run it manually for testing
+  workflow_dispatch:         # Allows manual trigger for testing
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:
-      contents: write        # This is required for the action to push files
+      contents: write        # Required to push files to the output branch
 
     steps:
       - name: Generate Snake SVGs
@@ -23,12 +23,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Note: The GodProfile action requires a different setup (MCP server).
-      # This workflow focuses on the reliable, standard Snake animation.
-      # For the 3D globe, see the explanation in Step 4.
-
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5   # <-- UPDATED TO v5
         with:
           target_branch: output
           build_dir: dist
