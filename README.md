@@ -91,7 +91,7 @@ I enjoy working beyond the user interface — understanding application architec
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=manuuh117&theme=transparent&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
+  <img src="./.github/assets/trophy.svg" alt="GitHub trophies" />
 </p>
 
 ---
