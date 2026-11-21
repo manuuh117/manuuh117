@@ -1,84 +1,36 @@
 # Emmanuel Mugendi
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=14B8A6&center=true&vCenter=true&width=700&lines=Software+Engineer;Trading+Systems+%26+Algorithmic+Logic;Frontend+Engineering;Building+Software+Products" alt="Animated introduction" />
-</p>
+**Software Engineer | Trading Systems & Algorithmic Logic | Frontend Engineering**
 
 <p align="center">
-  <a href="https://enuel.site">Portfolio</a> •
-  <a href="https://marztech.site">MarzTech</a> •
-  <a href="https://github.com/manuuh117">GitHub</a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=14B8A6&center=true&vCenter=true&width=700&lines=Building+software+products;Engineering+trading+systems;Designing+responsive+interfaces" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=14B8A6&height=100&section=header&text=Building%20Systems.%20Understanding%20Logic.&fontSize=30&animation=fadeIn" alt="Waving header" />
-</p>
+Co-Founder at [MarzTech](https://marztech.site) • Software Developer at EliteScope
 
 ---
 
-## About Me
+### 🔭 Currently Building
 
-I'm a Software Engineer focused on building practical software systems, solving engineering problems, and developing technology-driven products.
+*   **[Your Best Project Name]** — A [one-line description of what it does and who it is for]. ([Repo Link](https://github.com/manuuh117/your-repo))
+*   **[Your Second Project Name]** — A [one-line description of what it does and who it is for]. ([Repo Link](https://github.com/manuuh117/your-repo))
 
-My primary interests and areas of work include **trading systems, algorithmic logic, and frontend engineering**, alongside backend development, API integrations, and deployment infrastructure.
+### 🛠️ Core Stack
 
-I'm a Co-Founder at [MarzTech](https://marztech.site) and a Software Developer at EliteScope, collaborating on trading software development and supporting systems.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,php,cpp,react,nextjs,nodejs,mysql,mongodb,supabase,redis,docker,linux,git,githubactions" alt="Tech Stack" />
+</p>
 
-I enjoy working beyond the user interface — understanding application architecture, trading execution workflows, system reliability, and the engineering decisions that make software work.
-
-## Engineering Focus
-
-- **Trading Systems:** Algorithmic logic, strategy implementation, execution workflows, and risk management.
-- **Frontend Engineering:** Responsive interfaces, dashboards, and web application development.
-- **Backend Development:** Server-side functionality, application logic, and database integration.
-- **API Integration:** REST APIs, WebSockets, OAuth 2.0, and external services.
-- **Infrastructure & DevOps:** Docker, VPS environments, CI/CD pipelines, and deployment workflows.
-
-## Technology Stack
+### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,cpp,html,css,react,nextjs,nodejs,bootstrap,mysql,mongodb,supabase,redis,docker,linux,git,github,githubactions&perline=9" alt="Technology stack" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manuuh117&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuuh117&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://godprofile-mcp.vercel.app/api/icon-marquee?icons=js,php,cpp,react,nextjs,nodejs,mysql,mongodb,redis,docker,linux,git,githubactions&theme=dark" alt="Animated icon marquee" />
+  <img src="https://streak-stats.demolab.com?user=manuuh117&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
-
-## Experience
-
-**Co-Founder — [MarzTech](https://marztech.site)**
-
-Contributing to technology solutions and digital product development, with a focus on software engineering and implementation.
-
-**Software Developer — EliteScope**
-
-Collaborative development of trading software and supporting systems.
-
-Areas of contribution include:
-- Developing and refining trading algorithms and strategy logic.
-- Implementing trading functionality and risk management mechanisms.
-- Building and maintaining trading platform interfaces.
-- Integrating trading APIs and WebSocket communication.
-- Contributing to backend functionality and application integrations.
-- Working with Git, GitHub, CI/CD pipelines, and deployment environments.
-- Debugging, maintaining, and improving application reliability.
-
-## GitHub Overview
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manuuh117&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuuh117&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=manuuh117&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manuuh117&theme=transparent&no-frame=true&row=1&column=7" alt="GitHub trophies" />
-</p>
-
-## Contribution Activity
 
 <p align="center">
   <picture>
@@ -89,30 +41,9 @@ Areas of contribution include:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manuuh117&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
-<p align="center">
-  <img src="https://godprofile-mcp.vercel.app/api/contribution-globe?username=manuuh117&theme=dark" alt="3D contribution globe" />
-</p>
+### 📫 Connect
 
-## Interests
-
-- Algorithmic Trading & FinTech
-- Software Architecture
-- Real-Time Applications
-- Backend Engineering
-- API Design & Integration
-- Cloud Infrastructure & DevOps
-- SaaS & Product Development
-- AI and Automation
-
----
-
-<p align="center">
-  <b>Building systems. Understanding the logic. Engineering solutions.</b>
-</p>
-
-<p align="center">
-  <a href="https://enuel.site">enuel.site</a>
-</p>
+[Portfolio](https://enuel.site) • [MarzTech](https://marztech.site) • [GitHub](https://github.com/manuuh117)
