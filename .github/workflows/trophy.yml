@@ -1,0 +1,31 @@
+name: Generate GitHub Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Trophy Card
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: 'username=${{ github.repository_owner }}&theme=transparent&no-frame=true&no-bg=true&row=1&column=7&margin-w=8'
+          path: .github/assets/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .github/assets/trophy.svg
+          if git commit -m "Update trophy card"; then
+            git push
+          fi
