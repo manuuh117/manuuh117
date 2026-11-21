@@ -1,11 +1,5 @@
-<!-- ============================================ -->
-<!--              HEADER / IDENTITY               -->
-<!-- ============================================ -->
-
-<h1 align="center">Emmanuel Mugendi</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=14B8A6&center=true&vCenter=true&width=700&lines=Software+Engineer;Trading+Systems+%26+Algorithmic+Logic;Frontend+Engineering;Building+Software+Products" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=700&color=14B8A6&center=true&vCenter=true&width=750&lines=~%20%24%20whoami;Emmanuel%20Mugendi;~%20%24%20cat%20role.txt;Software%20Engineer;~%20%24%20cat%20focus.txt;Trading%20Systems%20%26%20Algorithmic%20Logic;~%20%24%20cat%20stack.txt;Frontend%20%7C%20Backend%20%7C%20DevOps" alt="Terminal boot sequence" />
 </p>
 
 <p align="center">
@@ -14,55 +8,41 @@
   <a href="https://github.com/manuuh117"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=14B8A6" alt="GitHub" /></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=14B8A6&height=120&section=header&text=Building%20Systems.%20Understanding%20Logic.&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Waving header" />
-</p>
-
 ---
 
-<!-- ============================================ -->
-<!--                   ABOUT                      -->
-<!-- ============================================ -->
+<h2><code>> about</code></h2>
 
-## 🧭 About Me
+    I'm a Software Engineer focused on building practical software systems,
+    solving engineering problems, and developing technology-driven products.
 
-I'm a Software Engineer focused on building practical software systems, solving engineering problems, and developing technology-driven products.
+    My primary interests span trading systems, algorithmic logic, and
+    frontend engineering, alongside backend development, API integrations,
+    and deployment infrastructure.
 
-My primary interests and areas of work include **trading systems, algorithmic logic, and frontend engineering**, alongside backend development, API integrations, and deployment infrastructure.
-
-I'm a **Co-Founder at [MarzTech](https://marztech.site)** and a **Software Developer at EliteScope**, collaborating on trading software development and supporting systems.
+    Currently: Co-Founder at MarzTech · Software Developer at EliteScope
 
 I enjoy working beyond the user interface — understanding application architecture, trading execution workflows, system reliability, and the engineering decisions that make software work.
 
 ---
 
-<!-- ============================================ -->
-<!--              ENGINEERING FOCUS               -->
-<!-- ============================================ -->
-
-## ⚙️ Engineering Focus
+<h2><code>> focus</code></h2>
 
 <table>
   <tr>
     <td valign="top" width="50%">
 
-**📈 Trading Systems**
-Algorithmic logic, strategy implementation, execution workflows, and risk management.
+**Trading Systems** — Algorithmic logic, strategy implementation, execution workflows, and risk management.
 
-**🎨 Frontend Engineering**
-Responsive interfaces, dashboards, and web application development.
+**Frontend Engineering** — Responsive interfaces, dashboards, and web application development.
 
-**🧩 Backend Development**
-Server-side functionality, application logic, and database integration.
+**Backend Development** — Server-side functionality, application logic, and database integration.
 
   </td>
   <td valign="top" width="50%">
 
-**🔌 API Integration**
-REST APIs, WebSockets, OAuth 2.0, and external services.
+**API Integration** — REST APIs, WebSockets, OAuth 2.0, and external services.
 
-**🚀 Infrastructure & DevOps**
-Docker, VPS environments, CI/CD pipelines, and deployment workflows.
+**Infrastructure & DevOps** — Docker, VPS environments, CI/CD pipelines, and deployment workflows.
 
   </td>
   </tr>
@@ -70,11 +50,7 @@ Docker, VPS environments, CI/CD pipelines, and deployment workflows.
 
 ---
 
-<!-- ============================================ -->
-<!--               TECHNOLOGY STACK               -->
-<!-- ============================================ -->
-
-## 🛠️ Technology Stack
+<h2><code>> stack</code></h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,php,cpp,html,css,react,nextjs,nodejs,bootstrap,mysql,mongodb,supabase,redis,docker,linux,git,github,githubactions&perline=9" alt="Technology stack" />
@@ -82,21 +58,16 @@ Docker, VPS environments, CI/CD pipelines, and deployment workflows.
 
 ---
 
-<!-- ============================================ -->
-<!--                 EXPERIENCE                   -->
-<!-- ============================================ -->
+<h2><code>> experience</code></h2>
 
-## 💼 Experience
+    [ Co-Founder — MarzTech ]
+    Contributing to technology solutions and digital product development,
+    with a focus on software engineering and implementation.
 
-### Co-Founder — [MarzTech](https://marztech.site)
+    [ Software Developer — EliteScope ]
+    Collaborative development of trading software and supporting systems.
 
-Contributing to technology solutions and digital product development, with a focus on software engineering and implementation.
-
-### Software Developer — EliteScope
-
-Collaborative development of trading software and supporting systems.
-
-Areas of contribution include:
+**Areas of contribution**
 
 - Developing and refining trading algorithms and strategy logic.
 - Implementing trading functionality and risk management mechanisms.
@@ -108,11 +79,7 @@ Areas of contribution include:
 
 ---
 
-<!-- ============================================ -->
-<!--                GITHUB STATS                  -->
-<!-- ============================================ -->
-
-## 📊 GitHub Overview
+<h2><code>> stats</code></h2>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=manuuh117&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=14B8A6&icon_color=14B8A6" alt="GitHub statistics" />
@@ -124,16 +91,12 @@ Areas of contribution include:
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manuuh117&theme=transparent&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=manuuh117&theme=transparent&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
 </p>
 
 ---
 
-<!-- ============================================ -->
-<!--             CONTRIBUTION ACTIVITY            -->
-<!-- ============================================ -->
-
-## 🌱 Contribution Activity
+<h2><code>> activity</code></h2>
 
 <p align="center">
   <picture>
@@ -153,11 +116,7 @@ Areas of contribution include:
 
 ---
 
-<!-- ============================================ -->
-<!--                  INTERESTS                   -->
-<!-- ============================================ -->
-
-## 🎯 Interests
+<h2><code>> interests</code></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Algorithmic_Trading_%26_FinTech-0F172A?style=flat-square&logoColor=14B8A6" alt="Algorithmic Trading" />
@@ -175,18 +134,10 @@ Areas of contribution include:
 
 ---
 
-<!-- ============================================ -->
-<!--                   FOOTER                     -->
-<!-- ============================================ -->
-
 <p align="center">
-  <b>Building systems. Understanding the logic. Engineering solutions.</b>
+  <code>Building systems. Understanding the logic. Engineering solutions.</code>
 </p>
 
 <p align="center">
   <a href="https://enuel.site">enuel.site</a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=14B8A6&height=80&section=footer" alt="Waving footer" />
 </p>
